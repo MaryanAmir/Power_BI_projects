@@ -27,6 +27,7 @@ This project analyzes an online sales dataset using Power BI to understand produ
 * Bottom 5 Products 
 * Sales Contribution by Product
 * Revenue Trend by Product
+  
 ![product](Screenshots/product.png)
 ### Region Analysis
 
