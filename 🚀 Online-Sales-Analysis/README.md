@@ -11,7 +11,7 @@ This project analyzes an online sales dataset using Power BI to understand produ
 * Bookmarks 
 * Data Visualization
 
-## Key Metrics
+##  📌 Key Metrics
 
 * Total Revenue
 * Units Sold
