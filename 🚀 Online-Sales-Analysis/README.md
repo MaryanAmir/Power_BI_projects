@@ -20,7 +20,7 @@ This project analyzes an online sales dataset using Power BI to understand produ
 
 ## Dashboard Pages
 ### Overview Analysis
-!(Screenshots/overview.png)
+!(screenshots/overview.png)
 ### Product Analysis
 
 * Top 5 Products by Revenue
