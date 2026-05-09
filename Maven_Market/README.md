@@ -15,8 +15,11 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 
 ## Dashboard Pages
 ### 1.  Main
+
 ![Main](Screenshoots/main.png).
+
 ### 2.  Overview
+
 ![Overview](Screenshoots/overview.png).
 
 ### 3. Sales 
@@ -24,6 +27,7 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 - Profit Analysis
 - Sales Trend Over Time
 - YTD Sales Comparison
+
 ![Sales](Screenshoots/sales.png).
 
 ### 4. Customers 
@@ -31,6 +35,7 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 - Customer Segmentation
 - Age Group Distribution
 - Revenue by Customer Groups
+
 ![Customers](Screenshoots/customer.png).
 
 ### 5. Products
@@ -38,6 +43,7 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 - Product Profitability
 - Promotion Impact Analysis
 - Product Category Performance
+
 ![Products](Screenshoots/product.png).
 
 ---
