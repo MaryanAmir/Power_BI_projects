@@ -15,30 +15,30 @@ The dashboard helps identify sales trends, top-performing products, customer seg
 
 ## Dashboard Pages
 ### 1.  Main
-![Screenshoots](main.png).
-### 2. b Overview
-![Screenshoots](overview.png).
+![Main](Screenshoots/main.png).
+### 2.  Overview
+![Overview](Screenshoots/overview.png).
 
 ### 3. Sales 
 - Total Sales KPI
 - Profit Analysis
 - Sales Trend Over Time
 - YTD Sales Comparison
-![Screenshoots](sales.png).
+![Sales](Screenshoots/sales.png).
 
-### 4. Customer 
+### 4. Customers 
 - New vs Returning Customers
 - Customer Segmentation
 - Age Group Distribution
 - Revenue by Customer Groups
-![Screenshoots](customer.png).
+![Customers](Screenshoots/customer.png).
 
-### 5. Product 
+### 5. Products
 - Top Products by Revenue
 - Product Profitability
 - Promotion Impact Analysis
 - Product Category Performance
-![Screenshoots](product.png).
+![Products](Screenshoots/product.png).
 
 ---
 
